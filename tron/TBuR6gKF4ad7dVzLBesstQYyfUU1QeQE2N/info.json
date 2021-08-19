@@ -1,11 +1,11 @@
 {
-  "name": "BDX",
-  "website": "https://the-Big-Dipper.com/",
-  "description": "The Big Dipper (BDX) is a decentralized digital store of value",
+  "name": "ZEUS",
+  "website": "https://zeusdefi88.cn",
+  "description": "Zeus is an experimental line token. Zeus' goal is simple -- it is a aggregator of profit output data for different products for lending platforms, and it rebalances the data to reach the highest profit output in contract transaction interactions",
   "explorer": "https://tronscan.io/#/contract/TBuR6gKF4ad7dVzLBesstQYyfUU1QeQE2N",
   "type": "TRC20",
-  "symbol": "BDX",
-  "decimals": 9,
+  "symbol": "ZEUS",
+  "decimals": 8,
   "status": "active",
-  "id": "TBuR6gKF4ad7dVzLBesstQYyfUU1QeQE2N"
+  "id": "TN7AzL5dH5ecqPptPwfVAJE6MPNWENMdqH"
 } 
